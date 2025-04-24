@@ -1,4 +1,4 @@
-package com.coopdev.Push.Automatic
+package com.coopdev.pushautomatic
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
